@@ -34,9 +34,21 @@ p {
   cursor: pointer;
 }
 
+.contenedor { 
+}
+
 .borde {
   border: 2px solid black;
+}
+
+.fondo {
   background-color: gray;
+}
+
+.redondeado {
   border-radius: 15px;
+}
+
+.sombra {
   box-shadow: 5px 5px 10px gray;
 }
